@@ -18,5 +18,5 @@ Eu sou Lucas Brito, programador júnior, estudando/focando atualmente nas tecnol
 
 <h3>Meus Projetos:</h3>
 
-<a href="https://lucassbrito.github.io/DESAFIO-CONVERSOR/">Conversor de Moeda</a>
+<a href="https://lucassbrito.github.io/DESAFIO-CONVERSOR/">Conversor de Moeda</a><br>
 <a href="https://lucassbrito.github.io/AtividadeClassesHeranca/">Cadastro de Funcionários</a>
